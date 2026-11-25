@@ -9,17 +9,17 @@
   "repos": [
     {
       "name": "Mahabharatam_Malladi_Chandrasekhara_Sastry",
-      "usedBytes": 797432067,
+      "usedBytes": 977262851,
       "full": false
     },
     {
       "name": "Mahabharatam_Malladi_Chandrasekhara_Sastry-part-1",
-      "usedBytes": 0,
+      "usedBytes": 385351680,
       "full": false
     },
     {
       "name": "Mahabharatam_Malladi_Chandrasekhara_Sastry-part-2",
-      "usedBytes": 0,
+      "usedBytes": 986961675,
       "full": false
     }
   ],
@@ -38,8 +38,22 @@
       "addedAt": "2026-11-25T14:32:50.592Z",
       "updatedAt": "2026-11-25T14:32:50.592Z",
       "manifest": "manifests/f2e72ca5-f282-4273-a53d-9a1ec52d013c.json"
+    },
+    {
+      "id": "38d6f6b2-8358-4636-a94b-f7ad2e9d4664",
+      "kind": "video",
+      "title": "10_మహాభారత ప్రవచనాలు అధ్యాయం10 Mahabharata Pravachanalu Part 10 Brahmasri Malladi ChandraShekara Sastry [bYnUCgXGWyI]",
+      "artist": "Unknown",
+      "album": "Unknown",
+      "duration": 10479,
+      "mime": "video/mp4",
+      "bytes": 1552118582,
+      "sha256": "b336c349b84547e4e9dca5bf0810915a010be9107ea6167fdfe993adb14d3226",
+      "addedAt": "2026-11-25T14:33:25.458Z",
+      "updatedAt": "2026-11-25T14:33:25.458Z",
+      "manifest": "manifests/38d6f6b2-8358-4636-a94b-f7ad2e9d4664.json"
     }
   ],
   "sources": [],
-  "updatedAt": "2026-11-25T14:44:02.991Z"
+  "updatedAt": "2026-11-25T15:26:40.455Z"
 }
