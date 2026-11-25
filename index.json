@@ -9,12 +9,27 @@
   "repos": [
     {
       "name": "Mahabharatam_Malladi_Chandrasekhara_Sastry",
-      "usedBytes": 0,
+      "usedBytes": 797432067,
       "full": false
     }
   ],
   "currentRepo": "Mahabharatam_Malladi_Chandrasekhara_Sastry",
-  "tracks": [],
+  "tracks": [
+    {
+      "id": "f2e72ca5-f282-4273-a53d-9a1ec52d013c",
+      "kind": "video",
+      "title": "1_మహాభారత ప్రవచనాలు అధ్యాయం1 Mahabharata Pravachanalu Vol-1 Brahmasri Malladi ChandraShekara Sastry [d6fLeVcMmeQ]",
+      "artist": "Unknown",
+      "album": "Unknown",
+      "duration": 9867,
+      "mime": "video/mp4",
+      "bytes": 797404363,
+      "sha256": "4c8c7ba9781a886ac875d798367d012f89995d3c634ba0334983e118c72d3377",
+      "addedAt": "2026-11-25T14:32:50.592Z",
+      "updatedAt": "2026-11-25T14:32:50.592Z",
+      "manifest": "manifests/f2e72ca5-f282-4273-a53d-9a1ec52d013c.json"
+    }
+  ],
   "sources": [],
-  "updatedAt": "2026-11-25T14:29:34.628Z"
+  "updatedAt": "2026-11-25T14:42:57.594Z"
 }
