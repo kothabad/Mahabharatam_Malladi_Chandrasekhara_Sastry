@@ -49,7 +49,7 @@
     },
     {
       "name": "Mahabharatam_Malladi_Chandrasekhara_Sastry-part-8",
-      "usedBytes": 838111161,
+      "usedBytes": 992251833,
       "full": false
     },
     {
@@ -59,12 +59,12 @@
     },
     {
       "name": "Mahabharatam_Malladi_Chandrasekhara_Sastry-part-10",
-      "usedBytes": 0,
+      "usedBytes": 333971456,
       "full": false
     },
     {
       "name": "Mahabharatam_Malladi_Chandrasekhara_Sastry-part-11",
-      "usedBytes": 0,
+      "usedBytes": 994844786,
       "full": false
     }
   ],
@@ -181,8 +181,22 @@
       "addedAt": "2026-11-25T14:33:44.816Z",
       "updatedAt": "2026-11-25T14:33:44.816Z",
       "manifest": "manifests/2d942b85-c518-42c6-8f8c-b2216236e203.json"
+    },
+    {
+      "id": "ea5b7f51-73b3-4e41-b411-135b3a977baf",
+      "kind": "video",
+      "title": "17_మహాభారత ప్రవచనాలు అధ్యాయం17 Mahabharata Pravachanalu Part 17 Brahmasri Malladi ChandraShekara Sastry [inSm6vOOG6k]",
+      "artist": "Unknown",
+      "album": "Unknown",
+      "duration": 10096,
+      "mime": "video/mp4",
+      "bytes": 1482930103,
+      "sha256": "cd8790d4ce86ea749c51fcefb962e304e3254301b3dc0c1f7f67ae9cdec8c966",
+      "addedAt": "2026-11-25T14:33:48.786Z",
+      "updatedAt": "2026-11-25T14:33:48.786Z",
+      "manifest": "manifests/ea5b7f51-73b3-4e41-b411-135b3a977baf.json"
     }
   ],
   "sources": [],
-  "updatedAt": "2026-11-26T02:55:05.893Z"
+  "updatedAt": "2026-11-26T03:11:13.314Z"
 }

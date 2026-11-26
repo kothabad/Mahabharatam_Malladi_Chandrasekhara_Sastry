@@ -1,0 +1,433 @@
+{
+  "schemaVersion": 1,
+  "trackId": "ea5b7f51-73b3-4e41-b411-135b3a977baf",
+  "media": {
+    "name": "17_మహాభారత ప్రవచనాలు అధ్యాయం17 Mahabharata Pravachanalu Part 17 Brahmasri Malladi ChandraShekara Sastry [inSm6vOOG6k].mp4",
+    "mime": "video/mp4",
+    "bytes": 1482930103,
+    "sha256": "cd8790d4ce86ea749c51fcefb962e304e3254301b3dc0c1f7f67ae9cdec8c966",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "Mahabharatam_Malladi_Chandrasekhara_Sastry-part-11",
+        "path": "data/ea/ea5b7f51-73b3-4e41-b411-135b3a977baf/media.0",
+        "bytes": 25690112,
+        "sha": "aa6c0966028833132744810ba7a121922c59fb32"
+      },
+      {
+        "n": 1,
+        "repo": "Mahabharatam_Malladi_Chandrasekhara_Sastry-part-11",
+        "path": "data/ea/ea5b7f51-73b3-4e41-b411-135b3a977baf/media.1",
+        "bytes": 25690112,
+        "sha": "5593b4808b20eeed9ac6457fe740224b0441ba18"
+      },
+      {
+        "n": 2,
+        "repo": "Mahabharatam_Malladi_Chandrasekhara_Sastry-part-11",
+        "path": "data/ea/ea5b7f51-73b3-4e41-b411-135b3a977baf/media.2",
+        "bytes": 25690112,
+        "sha": "42fedf65039e61d8de06c3415e1485fe02d784dd"
+      },
+      {
+        "n": 3,
+        "repo": "Mahabharatam_Malladi_Chandrasekhara_Sastry-part-11",
+        "path": "data/ea/ea5b7f51-73b3-4e41-b411-135b3a977baf/media.3",
+        "bytes": 25690112,
+        "sha": "ef8930a71bdcba2e22103254800c8d9e261c21af"
+      },
+      {
+        "n": 4,
+        "repo": "Mahabharatam_Malladi_Chandrasekhara_Sastry-part-11",
+        "path": "data/ea/ea5b7f51-73b3-4e41-b411-135b3a977baf/media.4",
+        "bytes": 25690112,
+        "sha": "a444e3c8f6798640a7c7406b12652143fc950e23"
+      },
+      {
+        "n": 5,
+        "repo": "Mahabharatam_Malladi_Chandrasekhara_Sastry-part-11",
+        "path": "data/ea/ea5b7f51-73b3-4e41-b411-135b3a977baf/media.5",
+        "bytes": 25690112,
+        "sha": "eb90cbd48f5f6529bd4be8457ebe4eafd303cbab"
+      },
+      {
+        "n": 6,
+        "repo": "Mahabharatam_Malladi_Chandrasekhara_Sastry-part-11",
+        "path": "data/ea/ea5b7f51-73b3-4e41-b411-135b3a977baf/media.6",
+        "bytes": 25690112,
+        "sha": "a67fe46da9e3a5ba24798fa83ae7d22b9d999ab3"
+      },
+      {
+        "n": 7,
+        "repo": "Mahabharatam_Malladi_Chandrasekhara_Sastry-part-11",
+        "path": "data/ea/ea5b7f51-73b3-4e41-b411-135b3a977baf/media.7",
+        "bytes": 25690112,
+        "sha": "3352caadce13bd1b0e2f00bb41ee3c58947dd831"
+      },
+      {
+        "n": 8,
+        "repo": "Mahabharatam_Malladi_Chandrasekhara_Sastry-part-11",
+        "path": "data/ea/ea5b7f51-73b3-4e41-b411-135b3a977baf/media.8",
+        "bytes": 25690112,
+        "sha": "d5e69344f44ae2db58e6b495818052d392cc0432"
+      },
+      {
+        "n": 9,
+        "repo": "Mahabharatam_Malladi_Chandrasekhara_Sastry-part-11",
+        "path": "data/ea/ea5b7f51-73b3-4e41-b411-135b3a977baf/media.9",
+        "bytes": 25690112,
+        "sha": "6e364a1a8a22bce91053ec0f66392f29fbe906a0"
+      },
+      {
+        "n": 10,
+        "repo": "Mahabharatam_Malladi_Chandrasekhara_Sastry-part-11",
+        "path": "data/ea/ea5b7f51-73b3-4e41-b411-135b3a977baf/media.10",
+        "bytes": 25690112,
+        "sha": "cff001fbc7fca7205b99875604598e2eeac4ce92"
+      },
+      {
+        "n": 11,
+        "repo": "Mahabharatam_Malladi_Chandrasekhara_Sastry-part-11",
+        "path": "data/ea/ea5b7f51-73b3-4e41-b411-135b3a977baf/media.11",
+        "bytes": 25690112,
+        "sha": "ffc48ac10fb51a27b6d1ca43336c17194e83f03a"
+      },
+      {
+        "n": 12,
+        "repo": "Mahabharatam_Malladi_Chandrasekhara_Sastry-part-11",
+        "path": "data/ea/ea5b7f51-73b3-4e41-b411-135b3a977baf/media.12",
+        "bytes": 25690112,
+        "sha": "f817317a7bf06e87b45cf65c5b892b202978737f"
+      },
+      {
+        "n": 13,
+        "repo": "Mahabharatam_Malladi_Chandrasekhara_Sastry-part-11",
+        "path": "data/ea/ea5b7f51-73b3-4e41-b411-135b3a977baf/media.13",
+        "bytes": 25690112,
+        "sha": "ebccc6686c706add55b5eff5b2725dd17fd9413d"
+      },
+      {
+        "n": 14,
+        "repo": "Mahabharatam_Malladi_Chandrasekhara_Sastry-part-11",
+        "path": "data/ea/ea5b7f51-73b3-4e41-b411-135b3a977baf/media.14",
+        "bytes": 25690112,
+        "sha": "e8c793c08f451a7d5072e28748ffb2d817b163f9"
+      },
+      {
+        "n": 15,
+        "repo": "Mahabharatam_Malladi_Chandrasekhara_Sastry-part-11",
+        "path": "data/ea/ea5b7f51-73b3-4e41-b411-135b3a977baf/media.15",
+        "bytes": 25690112,
+        "sha": "de1ba831e456f52a4135b8ac0e2f850e3dd99697"
+      },
+      {
+        "n": 16,
+        "repo": "Mahabharatam_Malladi_Chandrasekhara_Sastry-part-11",
+        "path": "data/ea/ea5b7f51-73b3-4e41-b411-135b3a977baf/media.16",
+        "bytes": 25690112,
+        "sha": "442022908f354642a7c7403f2aba437c4d50d7cd"
+      },
+      {
+        "n": 17,
+        "repo": "Mahabharatam_Malladi_Chandrasekhara_Sastry-part-11",
+        "path": "data/ea/ea5b7f51-73b3-4e41-b411-135b3a977baf/media.17",
+        "bytes": 25690112,
+        "sha": "8ff56c68284edf690a8412cf74e4975b7fdc3d4b"
+      },
+      {
+        "n": 18,
+        "repo": "Mahabharatam_Malladi_Chandrasekhara_Sastry-part-11",
+        "path": "data/ea/ea5b7f51-73b3-4e41-b411-135b3a977baf/media.18",
+        "bytes": 25690112,
+        "sha": "07c0af8cae1a5a5b5cc8b31caa41ec7ddad61518"
+      },
+      {
+        "n": 19,
+        "repo": "Mahabharatam_Malladi_Chandrasekhara_Sastry-part-11",
+        "path": "data/ea/ea5b7f51-73b3-4e41-b411-135b3a977baf/media.19",
+        "bytes": 25690112,
+        "sha": "8d9ab428a0a90a56f206f04bea37af26f5e533d9"
+      },
+      {
+        "n": 20,
+        "repo": "Mahabharatam_Malladi_Chandrasekhara_Sastry-part-11",
+        "path": "data/ea/ea5b7f51-73b3-4e41-b411-135b3a977baf/media.20",
+        "bytes": 25690112,
+        "sha": "4d92346f87de407451fb9dc6522e4e1275276b73"
+      },
+      {
+        "n": 21,
+        "repo": "Mahabharatam_Malladi_Chandrasekhara_Sastry-part-11",
+        "path": "data/ea/ea5b7f51-73b3-4e41-b411-135b3a977baf/media.21",
+        "bytes": 25690112,
+        "sha": "85baf26181e22e0cbd75a803dbca54eba87e2e65"
+      },
+      {
+        "n": 22,
+        "repo": "Mahabharatam_Malladi_Chandrasekhara_Sastry-part-11",
+        "path": "data/ea/ea5b7f51-73b3-4e41-b411-135b3a977baf/media.22",
+        "bytes": 25690112,
+        "sha": "5fe230f123f69e01cb12c549d8f0fb766bc1b513"
+      },
+      {
+        "n": 23,
+        "repo": "Mahabharatam_Malladi_Chandrasekhara_Sastry-part-11",
+        "path": "data/ea/ea5b7f51-73b3-4e41-b411-135b3a977baf/media.23",
+        "bytes": 25690112,
+        "sha": "b9c945a3fb65f08d792ea0ca82d47d71c67f9ec1"
+      },
+      {
+        "n": 24,
+        "repo": "Mahabharatam_Malladi_Chandrasekhara_Sastry-part-11",
+        "path": "data/ea/ea5b7f51-73b3-4e41-b411-135b3a977baf/media.24",
+        "bytes": 25690112,
+        "sha": "9b6f96ac65bef5e420b44fd64ae7c0f0b066ae45"
+      },
+      {
+        "n": 25,
+        "repo": "Mahabharatam_Malladi_Chandrasekhara_Sastry-part-11",
+        "path": "data/ea/ea5b7f51-73b3-4e41-b411-135b3a977baf/media.25",
+        "bytes": 25690112,
+        "sha": "44bedcc4b2758616771d75cdf1297f451e01c602"
+      },
+      {
+        "n": 26,
+        "repo": "Mahabharatam_Malladi_Chandrasekhara_Sastry-part-11",
+        "path": "data/ea/ea5b7f51-73b3-4e41-b411-135b3a977baf/media.26",
+        "bytes": 25690112,
+        "sha": "53ea302d75a5dd44ba458137ca0abd37f7c4bae8"
+      },
+      {
+        "n": 27,
+        "repo": "Mahabharatam_Malladi_Chandrasekhara_Sastry-part-11",
+        "path": "data/ea/ea5b7f51-73b3-4e41-b411-135b3a977baf/media.27",
+        "bytes": 25690112,
+        "sha": "5760cda01c2d4064e8da515342d13f0a669687e1"
+      },
+      {
+        "n": 28,
+        "repo": "Mahabharatam_Malladi_Chandrasekhara_Sastry-part-11",
+        "path": "data/ea/ea5b7f51-73b3-4e41-b411-135b3a977baf/media.28",
+        "bytes": 25690112,
+        "sha": "3642cc7161f395615620343a735ee19b2aaec896"
+      },
+      {
+        "n": 29,
+        "repo": "Mahabharatam_Malladi_Chandrasekhara_Sastry-part-11",
+        "path": "data/ea/ea5b7f51-73b3-4e41-b411-135b3a977baf/media.29",
+        "bytes": 25690112,
+        "sha": "85fb31d3e4d45b08d1aac6a59615b3cc0bed1c9d"
+      },
+      {
+        "n": 30,
+        "repo": "Mahabharatam_Malladi_Chandrasekhara_Sastry-part-11",
+        "path": "data/ea/ea5b7f51-73b3-4e41-b411-135b3a977baf/media.30",
+        "bytes": 25690112,
+        "sha": "7025a2b1c25e74ab744a1e8bb2a15671bd3805d7"
+      },
+      {
+        "n": 31,
+        "repo": "Mahabharatam_Malladi_Chandrasekhara_Sastry-part-11",
+        "path": "data/ea/ea5b7f51-73b3-4e41-b411-135b3a977baf/media.31",
+        "bytes": 25690112,
+        "sha": "fd82b490e6e1c996af82dafd4f3cea7267c69b74"
+      },
+      {
+        "n": 32,
+        "repo": "Mahabharatam_Malladi_Chandrasekhara_Sastry-part-11",
+        "path": "data/ea/ea5b7f51-73b3-4e41-b411-135b3a977baf/media.32",
+        "bytes": 25690112,
+        "sha": "f8e205f02469c2ca95e2526050aaa88cd3dac0b7"
+      },
+      {
+        "n": 33,
+        "repo": "Mahabharatam_Malladi_Chandrasekhara_Sastry-part-11",
+        "path": "data/ea/ea5b7f51-73b3-4e41-b411-135b3a977baf/media.33",
+        "bytes": 25690112,
+        "sha": "b2c624ac529189ece5c01a6adfa5a2d137296a23"
+      },
+      {
+        "n": 34,
+        "repo": "Mahabharatam_Malladi_Chandrasekhara_Sastry-part-11",
+        "path": "data/ea/ea5b7f51-73b3-4e41-b411-135b3a977baf/media.34",
+        "bytes": 25690112,
+        "sha": "91fb2bb41a1fb38e461f75527b5f3c7765604076"
+      },
+      {
+        "n": 35,
+        "repo": "Mahabharatam_Malladi_Chandrasekhara_Sastry-part-11",
+        "path": "data/ea/ea5b7f51-73b3-4e41-b411-135b3a977baf/media.35",
+        "bytes": 25690112,
+        "sha": "1c6921878b6d5b2222a72c66970dbea26336e0d3"
+      },
+      {
+        "n": 36,
+        "repo": "Mahabharatam_Malladi_Chandrasekhara_Sastry-part-11",
+        "path": "data/ea/ea5b7f51-73b3-4e41-b411-135b3a977baf/media.36",
+        "bytes": 25690112,
+        "sha": "7e8cfd94ed7e2036673d437b6aec4075c1eeb92a"
+      },
+      {
+        "n": 37,
+        "repo": "Mahabharatam_Malladi_Chandrasekhara_Sastry-part-11",
+        "path": "data/ea/ea5b7f51-73b3-4e41-b411-135b3a977baf/media.37",
+        "bytes": 25690112,
+        "sha": "48c8c4e110add80dd511fc1643383acb6d795f07"
+      },
+      {
+        "n": 38,
+        "repo": "Mahabharatam_Malladi_Chandrasekhara_Sastry-part-8",
+        "path": "data/ea/ea5b7f51-73b3-4e41-b411-135b3a977baf/media.38",
+        "bytes": 25690112,
+        "sha": "4098fe9e6c4ac96cb8d75e9a27cdd00c9e689ed8"
+      },
+      {
+        "n": 39,
+        "repo": "Mahabharatam_Malladi_Chandrasekhara_Sastry-part-8",
+        "path": "data/ea/ea5b7f51-73b3-4e41-b411-135b3a977baf/media.39",
+        "bytes": 25690112,
+        "sha": "50cd1b273b70f862fb6bc844ad18543eaec667eb"
+      },
+      {
+        "n": 40,
+        "repo": "Mahabharatam_Malladi_Chandrasekhara_Sastry-part-8",
+        "path": "data/ea/ea5b7f51-73b3-4e41-b411-135b3a977baf/media.40",
+        "bytes": 25690112,
+        "sha": "05ca8b42299e36d5e378eb843255c040f4590b14"
+      },
+      {
+        "n": 41,
+        "repo": "Mahabharatam_Malladi_Chandrasekhara_Sastry-part-8",
+        "path": "data/ea/ea5b7f51-73b3-4e41-b411-135b3a977baf/media.41",
+        "bytes": 25690112,
+        "sha": "edc1f08eaaf322676f1498864f4c859f00202078"
+      },
+      {
+        "n": 42,
+        "repo": "Mahabharatam_Malladi_Chandrasekhara_Sastry-part-8",
+        "path": "data/ea/ea5b7f51-73b3-4e41-b411-135b3a977baf/media.42",
+        "bytes": 25690112,
+        "sha": "5e4dfcc51515123b62634126938b51910c97a29c"
+      },
+      {
+        "n": 43,
+        "repo": "Mahabharatam_Malladi_Chandrasekhara_Sastry-part-8",
+        "path": "data/ea/ea5b7f51-73b3-4e41-b411-135b3a977baf/media.43",
+        "bytes": 25690112,
+        "sha": "9377271e7efe1cac521df9a3c652dacafec70216"
+      },
+      {
+        "n": 44,
+        "repo": "Mahabharatam_Malladi_Chandrasekhara_Sastry-part-10",
+        "path": "data/ea/ea5b7f51-73b3-4e41-b411-135b3a977baf/media.44",
+        "bytes": 25690112,
+        "sha": "e9768e8564b09ad591de08e052c3ba4beb928425"
+      },
+      {
+        "n": 45,
+        "repo": "Mahabharatam_Malladi_Chandrasekhara_Sastry-part-10",
+        "path": "data/ea/ea5b7f51-73b3-4e41-b411-135b3a977baf/media.45",
+        "bytes": 25690112,
+        "sha": "f29384889344777e05b2763b0300e7e461172f4f"
+      },
+      {
+        "n": 46,
+        "repo": "Mahabharatam_Malladi_Chandrasekhara_Sastry-part-10",
+        "path": "data/ea/ea5b7f51-73b3-4e41-b411-135b3a977baf/media.46",
+        "bytes": 25690112,
+        "sha": "c995823b3609f3bfb042e89f7c3e6c20269328e2"
+      },
+      {
+        "n": 47,
+        "repo": "Mahabharatam_Malladi_Chandrasekhara_Sastry-part-10",
+        "path": "data/ea/ea5b7f51-73b3-4e41-b411-135b3a977baf/media.47",
+        "bytes": 25690112,
+        "sha": "2f3b24038dd62c9e1fe9818754dc2699573b1527"
+      },
+      {
+        "n": 48,
+        "repo": "Mahabharatam_Malladi_Chandrasekhara_Sastry-part-10",
+        "path": "data/ea/ea5b7f51-73b3-4e41-b411-135b3a977baf/media.48",
+        "bytes": 25690112,
+        "sha": "a912cb33048386f15480af2e383cb5df371817b4"
+      },
+      {
+        "n": 49,
+        "repo": "Mahabharatam_Malladi_Chandrasekhara_Sastry-part-10",
+        "path": "data/ea/ea5b7f51-73b3-4e41-b411-135b3a977baf/media.49",
+        "bytes": 25690112,
+        "sha": "1de2652d208520d91622fef2b7f113fabde8b829"
+      },
+      {
+        "n": 50,
+        "repo": "Mahabharatam_Malladi_Chandrasekhara_Sastry-part-10",
+        "path": "data/ea/ea5b7f51-73b3-4e41-b411-135b3a977baf/media.50",
+        "bytes": 25690112,
+        "sha": "38afcc13f3246491b0ba500ca9f80742f49e8486"
+      },
+      {
+        "n": 51,
+        "repo": "Mahabharatam_Malladi_Chandrasekhara_Sastry-part-10",
+        "path": "data/ea/ea5b7f51-73b3-4e41-b411-135b3a977baf/media.51",
+        "bytes": 25690112,
+        "sha": "c55c695523f7756d9618b776c321e1726b5afeec"
+      },
+      {
+        "n": 52,
+        "repo": "Mahabharatam_Malladi_Chandrasekhara_Sastry-part-10",
+        "path": "data/ea/ea5b7f51-73b3-4e41-b411-135b3a977baf/media.52",
+        "bytes": 25690112,
+        "sha": "7d649a420dbaf5d37c2132e8484cfb0924b8e747"
+      },
+      {
+        "n": 53,
+        "repo": "Mahabharatam_Malladi_Chandrasekhara_Sastry-part-10",
+        "path": "data/ea/ea5b7f51-73b3-4e41-b411-135b3a977baf/media.53",
+        "bytes": 25690112,
+        "sha": "c0ae63ba948b0d3b2aced435662994984789aba6"
+      },
+      {
+        "n": 54,
+        "repo": "Mahabharatam_Malladi_Chandrasekhara_Sastry-part-10",
+        "path": "data/ea/ea5b7f51-73b3-4e41-b411-135b3a977baf/media.54",
+        "bytes": 25690112,
+        "sha": "cfa779859d01b02709133caf76b60798d60882f7"
+      },
+      {
+        "n": 55,
+        "repo": "Mahabharatam_Malladi_Chandrasekhara_Sastry-part-10",
+        "path": "data/ea/ea5b7f51-73b3-4e41-b411-135b3a977baf/media.55",
+        "bytes": 25690112,
+        "sha": "a7fb8522825effa6d69e03e3e157d5d28042f5fe"
+      },
+      {
+        "n": 56,
+        "repo": "Mahabharatam_Malladi_Chandrasekhara_Sastry-part-10",
+        "path": "data/ea/ea5b7f51-73b3-4e41-b411-135b3a977baf/media.56",
+        "bytes": 25690112,
+        "sha": "71a0344e53c024debaed5f48b5733baaa08829d8"
+      },
+      {
+        "n": 57,
+        "repo": "Mahabharatam_Malladi_Chandrasekhara_Sastry-part-11",
+        "path": "data/ea/ea5b7f51-73b3-4e41-b411-135b3a977baf/media.57",
+        "bytes": 18593719,
+        "sha": "dd0e03f9491a088c8fb3037c8043bb0f541bd193"
+      }
+    ]
+  },
+  "cover": {
+    "name": "poster.jpg",
+    "mime": "image/jpeg",
+    "bytes": 26811,
+    "sha256": "19e63c156d8943c81a0abeee8ea5bcef71b59472ce977ef33b44dc839610444f",
+    "parts": [
+      {
+        "n": 0,
+        "repo": "Mahabharatam_Malladi_Chandrasekhara_Sastry-part-11",
+        "path": "data/ea/ea5b7f51-73b3-4e41-b411-135b3a977baf/cover.0",
+        "bytes": 26811,
+        "sha": "3e03539b9ef168850bbb0b0b5166a93f21039a0d"
+      }
+    ]
+  }
+}
