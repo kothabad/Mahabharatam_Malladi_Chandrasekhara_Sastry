@@ -14,7 +14,7 @@
     },
     {
       "name": "Mahabharatam_Malladi_Chandrasekhara_Sastry-part-1",
-      "usedBytes": 975525127,
+      "usedBytes": 996010021,
       "full": false
     },
     {
@@ -59,7 +59,7 @@
     },
     {
       "name": "Mahabharatam_Malladi_Chandrasekhara_Sastry-part-10",
-      "usedBytes": 333971456,
+      "usedBytes": 539492352,
       "full": false
     },
     {
@@ -74,7 +74,7 @@
     },
     {
       "name": "Mahabharatam_Malladi_Chandrasekhara_Sastry-part-13",
-      "usedBytes": 0,
+      "usedBytes": 976249517,
       "full": false
     }
   ],
@@ -219,8 +219,22 @@
       "addedAt": "2026-11-25T14:32:52.394Z",
       "updatedAt": "2026-11-25T14:32:52.394Z",
       "manifest": "manifests/92cf246d-cb0d-4e7a-b4bf-c1eb7fc86968.json"
+    },
+    {
+      "id": "124a1407-6861-4ce0-a4af-1f5f198de834",
+      "kind": "video",
+      "title": "3_మహాభారత ప్రవచనాలు  అధ్యాయం3 Mahabharata Pravachanalu Part 3 Brahmasri  Malladi ChandraShekara Sastry [KGoJljdMWjY]",
+      "artist": "Unknown",
+      "album": "Unknown",
+      "duration": 10259,
+      "mime": "video/mp4",
+      "bytes": 1202230046,
+      "sha256": "97a905094a821bfa83314f9e95cb399a95b6ac9fd487f56148710dac2b6b3e87",
+      "addedAt": "2026-11-25T14:32:54.339Z",
+      "updatedAt": "2026-11-25T14:32:54.339Z",
+      "manifest": "manifests/124a1407-6861-4ce0-a4af-1f5f198de834.json"
     }
   ],
   "sources": [],
-  "updatedAt": "2026-11-26T03:49:59.857Z"
+  "updatedAt": "2026-11-26T04:03:14.922Z"
 }
